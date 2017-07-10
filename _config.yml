@@ -1,0 +1,34 @@
+#hexo-theme-simpleLayout
+#--------------------------------------
+
+# Header
+menu:
+  HOME: /
+  ABOUT: /about
+  RSS: /atom.xml
+
+# Sidebar
+widgets:
+  Category: Category
+  Tag: Tags
+  Archive: Archive
+  Tagcloud:
+  Recent_Post:
+
+# Content
+excerpt_link: 阅读全文
+
+#SNS
+social_media:
+  weibo: http://weibo.com/abcde6789ooo/
+  github: https://www.zhihu.com/people/reahink
+  zhihu: https://github.com/zqinmiao
+
+#theme color
+color:
+  body_background:
+  header_background:
+  header_font:
+
+# 其他
+favicon: /favicon.ico

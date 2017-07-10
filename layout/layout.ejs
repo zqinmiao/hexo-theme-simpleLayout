@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<%- partial('_partial/head') %>
+<body>
+<div id="page">
+	<%- partial("_partial/header") %>
+	<div class="main clearfix">
+		<div class="left-area">
+			<%- body %>
+            <%- partial("_partial/paginator") %>
+		</div>
+        <%- partial("_partial/sidebar") %>
+	</div>
+	<%- partial("_partial/footer") %>
+</div>
+<%- js(['lib/gitment.browser.js','js/main.js']) %>
+</body>
+</html>
