@@ -8,6 +8,7 @@
 out
 gen
 node_modules
+*.log
 
 # Windows:
 Thumbs.db
@@ -16,3 +17,5 @@ Desktop.ini
 
 #Mac:
 .DS_Store
+.Spotlight-V100
+.Trashes

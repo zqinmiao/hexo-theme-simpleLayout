@@ -1,6 +1,8 @@
 # hexo-theme-simpleLayout
 简单布局、简单配置、简简单单写文章
+
 [在线预览](http://yayajiu.com/)
+
 ---
 
 # 初始化一个Hexo项目，[参考](https://hexo.io/zh-cn/docs/setup.html)
@@ -10,6 +12,7 @@
 
 下面的zqinmiao.github.io文件夹就是指Hexo的博客项目
 把zqinmiao.github.io(此文件夹一般是你对应的github仓库名称)目录下的source文件夹清空(清空的目的是把init时产生的一片文章清理了)
+
 ---
 
 # 安装hexo-theme-simpleLayout
@@ -18,6 +21,7 @@
 先将文件夹hexo-theme-simpleLayout放到zqinmiao.github.io项目下的themes文件夹下
     $ cd hexo-theme-simpleLayout
     $ npm install
+
 ---
 
 # 配置zqinmiao.github.io项目下的_config.yml文件
@@ -137,6 +141,7 @@
 
 将theme的值修改为：hexo-theme-simpleLayout，就可以使用hexo-theme-simpleLayout主题了
 关于_config.yml中各项意思，参考[配置](https://hexo.io/zh-cn/docs/configuration.html)
+
 ---
 
 # 进入themes ——> hexo-theme-simpleLayout文件夹，配置此文件夹下的_config.yml文件
