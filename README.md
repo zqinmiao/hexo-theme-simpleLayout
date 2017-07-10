@@ -95,7 +95,7 @@
 
     #代码块的设置
     highlight:
-      enable: true
+      enable: false
       line_number: true
       auto_detect: false
       tab_replace:
