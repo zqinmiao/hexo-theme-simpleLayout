@@ -10,7 +10,7 @@
     $ hexo init zqinmiao.github.io
     $ npm install
 
-###以zqinmiao.github.io文件夹为例(下面提到的zqinmiao.github.io文件夹就是指Hexo的博客项目)
+### 以zqinmiao.github.io文件夹为例(下面提到的zqinmiao.github.io文件夹就是指Hexo的博客项目)
 
 把zqinmiao.github.io(此文件夹一般是你对应的github仓库名称)目录下的source文件夹清空(清空的目的是把init时产生的文章清理了)
 
