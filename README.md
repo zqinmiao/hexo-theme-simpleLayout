@@ -20,6 +20,7 @@
     $ git clone https://github.com/zqinmiao/hexo-theme-simpleLayout.git
 
 先将文件夹hexo-theme-simpleLayout放到zqinmiao.github.io项目下的themes文件夹下
+
     $ cd hexo-theme-simpleLayout
     $ npm install
 
