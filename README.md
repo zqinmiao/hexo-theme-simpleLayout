@@ -23,6 +23,7 @@
 
     $ cd hexo-theme-simpleLayout
     $ npm install
+    $ gulp
 
 ---
 

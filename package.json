@@ -1,5 +1,5 @@
 {
-  "name": "hexo-theme-yaya",
+  "name": "hexo-theme-simpleLayout",
   "version": "0.1.0",
   "description": "A hexo theme",
   "main": "index.js",
@@ -10,14 +10,14 @@
   "keywords": [
     "hexo",
     "theme",
-    "yaya"
+    "simpleLayout"
   ],
   "author": "Mark Zhang",
   "license": "MIT",
   "bugs": {
     "url": ""
   },
-  "homepage": "",
+  "homepage": "http://yayajiu.com/",
   "devDependencies": {},
   "dependencies": {
     "babel-core": "^6.23.1",
