@@ -8,6 +8,7 @@
 更新日志：
 
 2017-09-13：添加文章目录，[相关文章](http://darren90.github.io/2015/08/02/Hexo%E6%B7%BB%E5%8A%A0%E9%A1%B5%E5%86%85%E7%9B%AE%E5%BD%95/#2：目录的CSS样式文件)
+
 ---
 
 # 初始化一个Hexo项目，[参考](https://hexo.io/zh-cn/docs/setup.html)
