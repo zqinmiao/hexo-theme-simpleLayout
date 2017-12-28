@@ -1,11 +1,11 @@
 # hexo-theme-simpleLayout
 简单布局、简单配置、简简单单写文章
 
-[在线预览](http://yayajiu.com/)
+[在线预览](http://reahink.com/)
 
 ---
 
-版本：
+相关版本：
 
 node: 6.10.0，hexo-cli: 1.0.2
 
